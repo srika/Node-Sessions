@@ -1,0 +1,20 @@
+{
+  "name": "sessions",
+  "version": "1.0.0",
+  "description": "Session management demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "npm"
+  ],
+  "author": "Srikanth Pathlavath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6"
+  }
+}
